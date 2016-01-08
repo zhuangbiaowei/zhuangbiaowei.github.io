@@ -1,12 +1,11 @@
+# encoding utf-8
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: 读书、思考、生活
+email: zhuangbiaowei@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  识天地本心、教生民立命、为往圣传道学、为万世谋太平。
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://www.zhuangbiaowei.com" # the base hostname & protocol for your site
 
 
 # Sidebar filter
@@ -16,8 +15,8 @@ filter: 'tag'
 
 # Social account
 # twitter:  username
-# weibo:    ID
-# github:   username
+weibo:    zhuangbiaowei
+github:   zhuangbiaowei
 # codepen:  username
 # dribbble: username
 
