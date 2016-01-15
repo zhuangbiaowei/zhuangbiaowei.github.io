@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "写字的自由"
+title: "写字的自由——外篇"
 data: 2016-01-11 20:58:00
 categories: Writing
 tags: Thinking
