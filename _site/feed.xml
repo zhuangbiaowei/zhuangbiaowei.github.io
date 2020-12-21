@@ -4,11 +4,116 @@
     <title>读书、思考、生活</title>
     <description>识天地本心、教生民立命、为往圣传道学、为万世谋太平。
 </description>
-    <link>http://www.zhuangbiaowei.com/</link>
-    <atom:link href="http://www.zhuangbiaowei.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 20 Dec 2020 14:01:03 +0800</pubDate>
-    <lastBuildDate>Sun, 20 Dec 2020 14:01:03 +0800</lastBuildDate>
+    <link>http://localhost:4040/</link>
+    <atom:link href="http://localhost:4040/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 21 Dec 2020 15:25:48 +0800</pubDate>
+    <lastBuildDate>Mon, 21 Dec 2020 15:25:48 +0800</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>读书札记</title>
+        <description>&lt;p&gt;最近我一直在看各种人类学相关的书籍，也因此有了不少零零碎碎的感想。正好下决心重启blog的写作，就想着还是得记录一下。&lt;/p&gt;
+
+&lt;h2 id=&quot;人类学和社会学的区别是什么&quot;&gt;人类学和社会学的区别是什么？&lt;/h2&gt;
+
+&lt;p&gt;其实这个问题从源头上看，就很简单：人类学是研究人类的学问。而且，在这门学科发展的早期，通常是研究“&lt;strong&gt;那些奇怪人类&lt;/strong&gt;”的学问。直白一些说，在欧洲地理大发现之后，欧洲人，发现了众多原来从来没有想过会存在的（原始）人类，所以他们想要去研究这些人类是怎么回事。&lt;/p&gt;
+
+&lt;p&gt;而社会学，则是研究“&lt;strong&gt;咱们自己这个社会&lt;/strong&gt;”的学问。所以相比起人类学，社会学是从自我研究出发的。当然，随着人类学逐渐走出猎奇的心态，发现&lt;strong&gt;那些人类&lt;/strong&gt;也有自己的文化、社会、风俗，因此：社会学和人类学，就开始出现了交叉混杂的现象。&lt;/p&gt;
+
+&lt;p&gt;不过，我最近看的两本书：可以较为清晰的理解其中的差别：《&lt;a href=&quot;https://book.douban.com/subject/30309621/&quot;&gt;一个社会学家的十堂公开课&lt;/a&gt;》与《&lt;a href=&quot;https://book.douban.com/subject/27045310/&quot;&gt;像人类学家一样思考&lt;/a&gt;》。&lt;/p&gt;
+
+&lt;p&gt;相对而言，人类学家会针对较为简单的群体（族群）进行较为广泛的考察，而社会学家，则会更加关注复杂（现代）社会的各种方方面面。&lt;/p&gt;
+
+&lt;p&gt;人类学家往往会秉持某种程度的相对主义的倾向，对于多种文化和社会，进行比较。从某种意义上来：他们会更加困惑一些。&lt;/p&gt;
+
+&lt;h2 id=&quot;数字人类学与互联网社会学&quot;&gt;数字人类学与互联网社会学&lt;/h2&gt;
+
+&lt;p&gt;因为突发奇想，我开始在网络上搜索人类学与社会学，是否开始对于互联网进行研究。然后发现了两个名词：数字人类学（Digital anthropology），也有称之为Anthropology of cyberspace的。另一词是：互联网社会学（Sociology of the Internet），或者称之为Digital sociology。&lt;/p&gt;
+
+&lt;p&gt;参考链接：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Digital_anthropology&quot;&gt;Digital anthropology&lt;/a&gt; / &lt;a href=&quot;https://zh.wikipedia.org/wiki/%E6%95%B8%E4%BD%8D%E4%BA%BA%E9%A1%9E%E5%AD%B8&quot;&gt;数位人类学&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Sociology_of_the_Internet&quot;&gt;Sociology of the Internet&lt;/a&gt; / &lt;a href=&quot;https://zh.wikipedia.org/wiki/%E7%B6%B2%E9%9A%9B%E7%B6%B2%E8%B7%AF%E7%A4%BE%E6%9C%83%E5%AD%B8&quot;&gt;互联网社会学&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;比较两门新兴学科的关注点，也能发现差异：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;数字人类学
+    &lt;ul&gt;
+      &lt;li&gt;邦妮·纳迪（Bonnie Nardi）对魔兽世界的研究&lt;/li&gt;
+      &lt;li&gt;汤姆·博尔斯托夫（ Tom Boellstorff）对第二人生的研究&lt;/li&gt;
+      &lt;li&gt;由免费、开源软件建立的4chan、Reddit&lt;/li&gt;
+      &lt;li&gt;有政治动机的匿名者、维基解密、以及占领运动&lt;/li&gt;
+      &lt;li&gt;加布里埃拉·科尔曼（Gabriella Coleman）对Debian使用者以及匿名者的黑客网络的民族志研究&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;互联网社会学
+    &lt;ul&gt;
+      &lt;li&gt;因贫富差距而导致的数字落差&lt;/li&gt;
+      &lt;li&gt;社区与社会资本（时移算符问题）&lt;/li&gt;
+      &lt;li&gt;政治参与（公共领域、审议民主和公民社会）&lt;/li&gt;
+      &lt;li&gt;组织与其它经济组织&lt;/li&gt;
+      &lt;li&gt;文化参与和文化差异&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;我可以清楚的发现：我对于数字人类学研究的领域，更加感兴趣。&lt;/p&gt;
+
+&lt;h2 id=&quot;人类发展史中的偶然性&quot;&gt;人类发展史中的偶然性&lt;/h2&gt;
+
+&lt;p&gt;最近在看的另外一本书《&lt;a href=&quot;https://book.douban.com/subject/30121259/&quot;&gt;第五次开始&lt;/a&gt;》，也非常有意思。这是一位考古学家写的“大历史”类书籍。其中有一段话非常能够反映考古学家的看法：&lt;/p&gt;
+
+&lt;p&gt;“如果听到夸张之辞，这是历史上最好的xxx，考古学家只会付诸一笑。这不过是一个世纪之前。对于考古学家而言，这甚至连眨眼之间都算不上。我们常常以数千、数万或者数十万年的尺度讨论时间。”&lt;/p&gt;
+
+&lt;p&gt;所以，如果有一本讨论大历史的书，最早的证据不过是2000多年前，那这本书讨论的历史，一定不够大。 :)&lt;/p&gt;
+
+&lt;p&gt;回顾人类的进化史和发展史，我们的确可以反省一下对于时间尺度的感觉：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;“石器时代”的称呼被考古学家用来表示冶金时代以前的漫长时期，这段时间约占人类历史的99%以上&lt;/li&gt;
+  &lt;li&gt;“旧石器时代”，距今约250万年－约1万年前，也就是说：人类在大概200多万年的时间里，进展其实是极其缓慢的。&lt;/li&gt;
+  &lt;li&gt;“新石器时代”，以磨制石器为主，大约从公元前一万年开始，结束时间从距今7000多年至2000多年不等。也就是说：有很多部落，磨制石器的传统，至少传承了好几千年。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;从某种意义上来说：人类在最近千年的突飞猛进，是极其罕见并不可思议的意外。相反，那些至今仍然茹毛饮血的原始部落，倒是历史发展中的正常状态。&lt;/p&gt;
+
+&lt;p&gt;只不过，我们往往以现代人的眼光去看待那些掉队者：你们怎么回事？&lt;/p&gt;
+
+&lt;h2 id=&quot;从低级语言到高级语言&quot;&gt;从低级语言到高级语言&lt;/h2&gt;
+
+&lt;p&gt;最近读到的一篇长文，也引发了我对于语言（包括人类语言与计算机语言）的思考。《&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzAxNDAxMjg5Mg==&amp;amp;mid=2649984805&amp;amp;idx=1&amp;amp;sn=d48d6af93caeb8cae47df2ece565029f&amp;amp;chksm=839ef796b4e97e80f02cfc0c94dd78fc7baf899876974b15187b8ea4d63a681a0f4931594dcc&amp;amp;mpshare=1&amp;amp;scene=1&amp;amp;srcid=1219uZpe7Id3OCRqAeezV9pE&amp;amp;sharer_sharetime=1608375151484&amp;amp;sharer_shareid=fa0dbb8988a579e3095755598baac754&amp;amp;exportkey=AfwsRGb3ItDV1og8c5vW780%3D&amp;amp;pass_ticket=3IWt%2B5OQ75hNEpDk9GkRG0kpnLBpgHmIEkzuSmzgkNBRF5lp%2BIYO0QGKvJ6aU03o&amp;amp;wx_header=0#rd&quot;&gt;亚马逊丛林：原始部落颠覆人类语言理论（上）&lt;/a&gt;、&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzAxNDAxMjg5Mg==&amp;amp;mid=2649984807&amp;amp;idx=1&amp;amp;sn=511ee5366b66346395dcd8344e4ffe64&amp;amp;chksm=839ef794b4e97e82806ef4667e0390da3c2f3df1d279ee432924f8b9d86defb040d6af71c77f&amp;amp;mpshare=1&amp;amp;scene=1&amp;amp;srcid=1219Uimz2bCygMEc4G4yeIe1&amp;amp;sharer_sharetime=1608375163591&amp;amp;sharer_shareid=fa0dbb8988a579e3095755598baac754&amp;amp;exportkey=ARbgEPj5fEjK%2FiieyV578R8%3D&amp;amp;pass_ticket=3IWt%2B5OQ75hNEpDk9GkRG0kpnLBpgHmIEkzuSmzgkNBRF5lp%2BIYO0QGKvJ6aU03o&amp;amp;wx_header=0#rd&quot;&gt;（下）&lt;/a&gt;》&lt;/p&gt;
+
+&lt;p&gt;按照这篇报道中的说法，“皮拉罕”部落的语言非常落后。以至于缺少很多抽象概念，还有递归结构。如果有一个句子：“我看到河边的狗被蛇咬了一口”。按照皮拉罕语的说法，就会变成：“我看到了一条狗。那条狗在河滩上。一条蛇咬了那只狗。”&lt;/p&gt;
+
+&lt;p&gt;这不就是计算机语言中的低级语言和高级语言的区别吗？一条高级语言的语句，能够翻译成多条低级语言。多么正常的现象啊。乔姆斯基语言学的总结，看来只是从现代人类语言总结出来的，偶尔遇到了一个“没有进化的化石级低级语言”，就无法解释了。&lt;/p&gt;
+
+&lt;p&gt;还有这一段：埃弗里特也发现皮拉罕语里没有固定的词汇来表达颜色的概念，而是随机用一些描述性的词语来代替。“因此假设你拿一个红色的杯子给他们看，他们很可能会说‘看起来像血’，”埃弗里特说道。“或者他们会说，‘像vrvcum’——一种当地的浆果，当地人从中提取红色染料。”&lt;/p&gt;
+
+&lt;p&gt;这不就是低级语言的常见问题：缺乏抽象语法结构吗？泛泛的来看：从计算机语言发展的历史去理解人类语言的发展历史，也许能够产生很多有趣的联想。&lt;/p&gt;
+
+&lt;h2 id=&quot;人性本善与人性本恶&quot;&gt;人性本善与人性本恶&lt;/h2&gt;
+
+&lt;p&gt;最近我看了不少纪录片，比如这一部《&lt;a href=&quot;https://movie.douban.com/subject/35268248/&quot;&gt;中国&lt;/a&gt;》，就拍得非常的精美。其中的第三集讲荀况和他的两个弟子李斯和韩非。其中再一次提到了人性本善与人性本恶的概念。当然，在纪录片中，并未有深入的讨论。&lt;/p&gt;
+
+&lt;p&gt;联想到我之前看过的一本书《&lt;a href=&quot;https://book.douban.com/subject/26150549/&quot;&gt;人性中的善良天使&lt;/a&gt;》，可以算是研究最深入的，人性本善的立论之作了。&lt;/p&gt;
+
+&lt;p&gt;我当然也是非常赞同人性本善的，不过因为最近读了各种各样的人类学相关著作，让我突然想通了一个关键：&lt;strong&gt;人类的本性向善，个人的本性向恶&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;作为一篇读书札记，这里就不再展开了。&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 20 Dec 2020 00:00:00 +0800</pubDate>
+        <link>http://localhost:4040/reading/2020/12/20/Reading-Notes.html</link>
+        <guid isPermaLink="true">http://localhost:4040/reading/2020/12/20/Reading-Notes.html</guid>
+        
+        <category>Thinking</category>
+        
+        
+        <category>Reading</category>
+        
+      </item>
     
       <item>
         <title>写字的自由——内篇</title>
@@ -64,8 +169,8 @@
 &lt;p&gt;所以：找到一个写作体验比较好的地方，人也不多，不会有多的吵吵嚷嚷干扰我的思考与写作。至于能够有多少人看到，能够有多少人赞同甚至来找我探讨，一切随缘。这就是我选择简书的原因。&lt;/p&gt;
 </description>
         <pubDate>Mon, 22 Feb 2016 00:00:00 +0800</pubDate>
-        <link>http://www.zhuangbiaowei.com/writing/2016/02/22/writing-freedom-2.html</link>
-        <guid isPermaLink="true">http://www.zhuangbiaowei.com/writing/2016/02/22/writing-freedom-2.html</guid>
+        <link>http://localhost:4040/writing/2016/02/22/writing-freedom-2.html</link>
+        <guid isPermaLink="true">http://localhost:4040/writing/2016/02/22/writing-freedom-2.html</guid>
         
         <category>Thinking</category>
         
@@ -127,8 +232,8 @@
 &lt;p&gt;当然，还好我另有一技之长，不必靠写字谋生。这是我能保有自己的自由的基础——&lt;strong&gt;万幸&lt;/strong&gt;。&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 Jan 2016 00:00:00 +0800</pubDate>
-        <link>http://www.zhuangbiaowei.com/writing/2016/01/11/writing-freedom.html</link>
-        <guid isPermaLink="true">http://www.zhuangbiaowei.com/writing/2016/01/11/writing-freedom.html</guid>
+        <link>http://localhost:4040/writing/2016/01/11/writing-freedom.html</link>
+        <guid isPermaLink="true">http://localhost:4040/writing/2016/01/11/writing-freedom.html</guid>
         
         <category>Thinking</category>
         
@@ -226,8 +331,8 @@
 &lt;p&gt;这篇文章，我是一边想，一边写的。这么难的问题，我其实根本想不清楚，当然也会写得乱七八糟。只能说声抱歉了！&lt;/p&gt;
 </description>
         <pubDate>Sat, 09 Jan 2016 20:07:00 +0800</pubDate>
-        <link>http://www.zhuangbiaowei.com/thinkingit/2016/01/09/kuaibo-tech-thinking.html</link>
-        <guid isPermaLink="true">http://www.zhuangbiaowei.com/thinkingit/2016/01/09/kuaibo-tech-thinking.html</guid>
+        <link>http://localhost:4040/thinkingit/2016/01/09/kuaibo-tech-thinking.html</link>
+        <guid isPermaLink="true">http://localhost:4040/thinkingit/2016/01/09/kuaibo-tech-thinking.html</guid>
         
         <category>Thinking</category>
         
@@ -256,8 +361,8 @@
 
 </description>
         <pubDate>Mon, 09 Mar 2015 06:21:49 +0800</pubDate>
-        <link>http://www.zhuangbiaowei.com/jekyll/2015/03/09/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://www.zhuangbiaowei.com/jekyll/2015/03/09/welcome-to-jekyll.html</guid>
+        <link>http://localhost:4040/jekyll/2015/03/09/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://localhost:4040/jekyll/2015/03/09/welcome-to-jekyll.html</guid>
         
         <category>Jekyll</category>
         
