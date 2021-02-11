@@ -4,10 +4,10 @@
     <title>读书、思考、生活</title>
     <description>识天地本心、教生民立命、为往圣传道学、为万世谋太平。
 </description>
-    <link>http://www.zhuangbiaowei.com/</link>
-    <atom:link href="http://www.zhuangbiaowei.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 31 Dec 2020 20:36:28 +0800</pubDate>
-    <lastBuildDate>Thu, 31 Dec 2020 20:36:28 +0800</lastBuildDate>
+    <link>http://localhost:4040/</link>
+    <atom:link href="http://localhost:4040/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 12 Feb 2021 00:13:22 +0800</pubDate>
+    <lastBuildDate>Fri, 12 Feb 2021 00:13:22 +0800</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -41,8 +41,8 @@
 &lt;h1 id=&quot;最后希望2021能比2020好点&quot;&gt;最后，希望2021，能比2020好点&lt;/h1&gt;
 </description>
         <pubDate>Thu, 31 Dec 2020 00:00:00 +0800</pubDate>
-        <link>http://www.zhuangbiaowei.com/lift/2020/12/31/Goodbye-2020.html</link>
-        <guid isPermaLink="true">http://www.zhuangbiaowei.com/lift/2020/12/31/Goodbye-2020.html</guid>
+        <link>http://localhost:4040/lift/2020/12/31/Goodbye-2020.html</link>
+        <guid isPermaLink="true">http://localhost:4040/lift/2020/12/31/Goodbye-2020.html</guid>
         
         
         <category>Lift</category>
@@ -144,8 +144,8 @@
 
 </description>
         <pubDate>Sun, 20 Dec 2020 00:00:00 +0800</pubDate>
-        <link>http://www.zhuangbiaowei.com/reading/2020/12/20/Reading-Notes.html</link>
-        <guid isPermaLink="true">http://www.zhuangbiaowei.com/reading/2020/12/20/Reading-Notes.html</guid>
+        <link>http://localhost:4040/reading/2020/12/20/Reading-Notes.html</link>
+        <guid isPermaLink="true">http://localhost:4040/reading/2020/12/20/Reading-Notes.html</guid>
         
         <category>Thinking</category>
         
@@ -208,8 +208,8 @@
 &lt;p&gt;所以：找到一个写作体验比较好的地方，人也不多，不会有多的吵吵嚷嚷干扰我的思考与写作。至于能够有多少人看到，能够有多少人赞同甚至来找我探讨，一切随缘。这就是我选择简书的原因。&lt;/p&gt;
 </description>
         <pubDate>Mon, 22 Feb 2016 00:00:00 +0800</pubDate>
-        <link>http://www.zhuangbiaowei.com/writing/2016/02/22/writing-freedom-2.html</link>
-        <guid isPermaLink="true">http://www.zhuangbiaowei.com/writing/2016/02/22/writing-freedom-2.html</guid>
+        <link>http://localhost:4040/writing/2016/02/22/writing-freedom-2.html</link>
+        <guid isPermaLink="true">http://localhost:4040/writing/2016/02/22/writing-freedom-2.html</guid>
         
         <category>Thinking</category>
         
@@ -271,8 +271,8 @@
 &lt;p&gt;当然，还好我另有一技之长，不必靠写字谋生。这是我能保有自己的自由的基础——&lt;strong&gt;万幸&lt;/strong&gt;。&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 Jan 2016 00:00:00 +0800</pubDate>
-        <link>http://www.zhuangbiaowei.com/writing/2016/01/11/writing-freedom.html</link>
-        <guid isPermaLink="true">http://www.zhuangbiaowei.com/writing/2016/01/11/writing-freedom.html</guid>
+        <link>http://localhost:4040/writing/2016/01/11/writing-freedom.html</link>
+        <guid isPermaLink="true">http://localhost:4040/writing/2016/01/11/writing-freedom.html</guid>
         
         <category>Thinking</category>
         
@@ -370,8 +370,8 @@
 &lt;p&gt;这篇文章，我是一边想，一边写的。这么难的问题，我其实根本想不清楚，当然也会写得乱七八糟。只能说声抱歉了！&lt;/p&gt;
 </description>
         <pubDate>Sat, 09 Jan 2016 20:07:00 +0800</pubDate>
-        <link>http://www.zhuangbiaowei.com/thinkingit/2016/01/09/kuaibo-tech-thinking.html</link>
-        <guid isPermaLink="true">http://www.zhuangbiaowei.com/thinkingit/2016/01/09/kuaibo-tech-thinking.html</guid>
+        <link>http://localhost:4040/thinkingit/2016/01/09/kuaibo-tech-thinking.html</link>
+        <guid isPermaLink="true">http://localhost:4040/thinkingit/2016/01/09/kuaibo-tech-thinking.html</guid>
         
         <category>Thinking</category>
         
@@ -383,30 +383,123 @@
       </item>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>从前慢——我希望有一个「慢社区」</title>
+        <description>&lt;p&gt;我不了解木心，他的文章我也从未看过，只有一首诗，倒是给我留下很深的印象：&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;记得早先少年时
+大家诚诚恳恳
+说一句 是一句
+　　
+清早上火车站
+长街黑暗无行人
+卖豆浆的小店冒着热气
+　　
+从前的日色变得慢
+车，马，邮件都慢
+一生只够爱一个人
+　　
+从前的锁也好看
+钥匙精美有样子
+你锁了 人家就懂了
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;今天参加了TopITClub的第一次线下聚会，聊到我希望TITC成为怎样一个社区，现在理了一下自己的思路，其实就是一个「慢社区」。&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;操作很麻烦
+融入也不易
+规矩很严格
+还要发帖、回帖、打好多字
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+从第一次发帖
+到在社区里混个脸熟
+要花很长的时间
+到真正的交到一个朋友
+还需要花更多的时间
 
+虽然很慢、很费力
+却有可能交到一辈子的朋友
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;现在回想起来，虽然我加入了很多很多的社区，但是到目前为止，我只在三个社区结识了真正的朋友：网易、JavaEye还有知乎。&lt;/p&gt;
+
+&lt;p&gt;如果TITC，能够成为这样的一个社区，大家都不着急，也不功利。大家都慢慢来，也愿意用心。这就是我最向往的社区了！&lt;/p&gt;
 </description>
-        <pubDate>Mon, 09 Mar 2015 06:21:49 +0800</pubDate>
-        <link>http://www.zhuangbiaowei.com/jekyll/2015/03/09/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://www.zhuangbiaowei.com/jekyll/2015/03/09/welcome-to-jekyll.html</guid>
+        <pubDate>Sun, 05 Jul 2015 20:45:00 +0800</pubDate>
+        <link>http://localhost:4040/dairy/2015/07/05/I-wish-there-was-a-slow-community.html</link>
+        <guid isPermaLink="true">http://localhost:4040/dairy/2015/07/05/I-wish-there-was-a-slow-community.html</guid>
         
-        <category>Jekyll</category>
+        <category>Community</category>
         
         
-        <category>Jekyll</category>
+        <category>Dairy</category>
+        
+      </item>
+    
+      <item>
+        <title>转、进、定——我的2014</title>
+        <description>&lt;p&gt;看着很多朋友，都纷纷在总结回顾自己的2014，我也试着总结一下吧，原本想按照往年的传统，选一个年度汉字的，结果思前想后，发现至少需要三个字，才能表达这一年的林林总总。&lt;/p&gt;
+
+&lt;p&gt;一、转：这一年我有三大转变：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;加入华为，而且干满一年了；&lt;/li&gt;
+  &lt;li&gt;开始跑步，而且喜欢上跑步了（不是坚持，就是喜欢）；&lt;/li&gt;
+  &lt;li&gt;彻底离开知乎，而且真的戒掉了；&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;二、进：这是我进步非常大的一年，因为在华为的工作与开源有关、与研发有关，我思考了很多、很多，也有了很多的收获。&lt;/p&gt;
+
+&lt;p&gt;在多年以后，也许会有人评价，2014年是华为的开源元年，而我们则是这一重大变革的亲历者。&lt;/p&gt;
+
+&lt;p&gt;从这个意义上来说，我感到非常自豪。&lt;/p&gt;
+
+&lt;p&gt;三、定：从而立到不惑，慢慢的就能定下来了&lt;/p&gt;
+
+&lt;p&gt;40不惑，无非是心有定见，眼看马上就要39了，我仔细思索了一下自己的心路历程，渐渐的感到：自己的想法，已经很少左右摇摆，虽然心态依然开放，但判断却很少犹豫，这大概就是一种不惑吧。&lt;/p&gt;
+
+&lt;p&gt;最后，祝愿所有的朋友，新年快乐，万事如意！身体健康，阖家幸福！&lt;/p&gt;
+</description>
+        <pubDate>Wed, 31 Dec 2014 23:18:00 +0800</pubDate>
+        <link>http://localhost:4040/dairy/2014/12/31/my-2014.html</link>
+        <guid isPermaLink="true">http://localhost:4040/dairy/2014/12/31/my-2014.html</guid>
+        
+        <category>Essay</category>
+        
+        
+        <category>Dairy</category>
+        
+      </item>
+    
+      <item>
+        <title>不要害怕做一个傻瓜</title>
+        <description>&lt;p&gt;　　人人都怕变成别人眼里的傻瓜，所以在微信圈子里《医生不会告诉你的十个秘密》、《在旅游景点小心这五种人》、《常见营销圈套集锦》（以上标题全是我编的，如有雷同，实属巧合）会非常热门，转得到处都是。&lt;/p&gt;
+
+&lt;p&gt;　　前两天，知乎出了一件大事，因为曾经推荐过一把菜刀，被人大肆攻击，最后因为倍感疲惫，退出了知乎。有人在知乎上提问：「知乎用户为何无法善待在知乎上做营销的人？」。&lt;/p&gt;
+
+&lt;p&gt;　　其中一位朋友＠Lawrence Li的回答，我非常赞同：『這就是「受過欺負的臉」。看什麼都忙不迭地進入軟文探偵模式、生怕有哪個廣告或哪個植入沒看出來、自己又被欺負了。而一旦看出來、那一定是要嚷嚷的。』&lt;/p&gt;
+
+&lt;p&gt;　　所以，葛巾在退出的时候说：「作为一个偏时尚类的回答者，不停被怀疑有各种得利，已疲于辩驳。」其实，那些人的所谓质疑，只是想证明自己并非傻瓜，所以「拥有质疑的能力」而已。&lt;/p&gt;
+
+&lt;p&gt;　　另外一件大事，起初还算一件不错的善举，一群美国的名人与富豪，为了提高人们对ALS(肌肉萎缩性侧索硬化症)的意识，同时也号召人们为ALS联合会捐款，纷纷将一桶冰水浇在自己身上，同时拍下视频，全球传播。他们那边大家都一边捐款，一边浇冰水，一边发视频，玩得不亦乐乎。&lt;/p&gt;
+
+&lt;p&gt;　　结果到了中国，就出现了一篇文章《刻奇，网络传播的诡异钥匙》，众多读者纷纷大赞：「啊，原来如此，这下就看穿真相了！」，当Fenng说：「这些最能抓住庸众的情感。没错，不是大众，是庸众。」很多人纷纷转载，点赞，打赏，评论，以证明自己足够聪明，并非「庸众」。&lt;/p&gt;
+
+&lt;p&gt;　　这让我想起以前不知在哪里读到过的一个故事：「某某名人，因为听说某个小女孩生病，急需一笔钱救命。于是他就捐助了一笔钱。事后听说，原来他受骗了，并没有一个小女孩生病。他很高兴的说：那太好了，原来没有一个生病的小孩！」&lt;/p&gt;
+
+&lt;p&gt;　　这个人，很愚蠢吗？不！他只不过是个善良而乐观的人。孟子曰：「君子可以欺以其方」，简单的解释就是：「君子不怀疑正当的东西，不质疑合情合理的东西——因为，维护一个社会基本的信任底线，比防范受骗还重要。」&lt;/p&gt;
+
+&lt;p&gt;　　虽然儒家常说「过犹不及」，因为中庸之道才是最高境界。但是，在无法做到中庸时，我宁可遵循自己的本心。&lt;/p&gt;
+
+&lt;p&gt;　　所以，在我看来：「宁可热血中二，不要冷酷无情」、「宁可做个善良的傻瓜，不要做个冷漠的智者」，因为孔子也曾经曰过：「不得中行而與之，必也狂狷乎！狂者進取，狷者有所不為也。」&lt;/p&gt;
+</description>
+        <pubDate>Mon, 18 Aug 2014 23:26:00 +0800</pubDate>
+        <link>http://localhost:4040/dairy/2014/08/18/Dont-be-afraid-to-be-a-fool.html</link>
+        <guid isPermaLink="true">http://localhost:4040/dairy/2014/08/18/Dont-be-afraid-to-be-a-fool.html</guid>
+        
+        <category>Essay</category>
+        
+        
+        <category>Dairy</category>
         
       </item>
     
