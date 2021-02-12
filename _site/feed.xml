@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4040/</link>
     <atom:link href="http://localhost:4040/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 12 Feb 2021 13:25:23 +0800</pubDate>
-    <lastBuildDate>Fri, 12 Feb 2021 13:25:23 +0800</lastBuildDate>
+    <pubDate>Fri, 12 Feb 2021 13:31:55 +0800</pubDate>
+    <lastBuildDate>Fri, 12 Feb 2021 13:31:55 +0800</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -379,6 +379,57 @@
         
         
         <category>ThinkingIT</category>
+        
+      </item>
+    
+      <item>
+        <title>你是从什么时候开始放弃学习的？</title>
+        <description>&lt;p&gt;一、背不出3x5的小女孩
+之前网上曾经流传了一个有趣的视频，一个小女孩，在镜头前大哭，因为她只能背出1x5得5，2x5得10，始终记不住3x5一十五。“我永远都记不住这3x5，这3x5太难了！”
+&lt;img src=&quot;/assets/img/girl.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;说实话，我很为这个小女孩的未来担忧，不是因为她的背不出这样一个简单的乘法口诀，而是她给自己下的定语：“我永远都记不住！”这样的断语，往往代表这一种否定自我的心态：“完了，我已经无法战胜这个困难了，我想放弃了！”&lt;/p&gt;
+
+&lt;p&gt;二、没有信心自己看懂的儿子
+2周前，我儿子生病有一天没有去上学，等到晚上我回到家时，他拿着一本数学书过来找我，让我帮他讲解某个概念。
+我拿着书给他讲了两段，然后他就“噢”了一下，表示已经懂了。
+于是我问：你刚刚在过来找我之前，没有自己看过这一段？
+他说：没有。
+我又问：也就是说，你自己都还没有看过书，就感觉自己不懂，直接就来让我讲？
+他没说话。
+于是我又说：如果这是你自己都能够看懂的内容，为啥你会先选择让我来帮你讲呢？&lt;/p&gt;
+
+&lt;p&gt;这时候，我也同样开始担忧起来，不是因为他搞不懂某一个数学概念，而是“他尚未尝试，就打算放弃了。”&lt;/p&gt;
+
+&lt;p&gt;三、那些不再学习的成年人
+在上一篇文章关于&lt;a href=&quot;/dairy/2015/11/30/Talking-about-lifelong-learning.html&quot;&gt;终生学习&lt;/a&gt;的文章中，我表达了2个观点，一、无法终生学习的人，是因为没有从学习中找到乐趣。二、教育最大的目标，是让人爱上学习。
+但是，对于很多成年人来说，这样的观点会非常有用——特别是用来自我辩解的时候：“我读书的时候，老师没有把我教好。都怪这&lt;strong&gt;中国的应试教育&lt;/strong&gt;”。&lt;/p&gt;
+
+&lt;p&gt;当然，成年人在放弃学习之后，学会了一项最为重要的技能——寻找借口：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;工作实在是太忙了，家庭也花费了我大量的精力！&lt;/li&gt;
+  &lt;li&gt;这些XXX，对我有用吗？没用的东西，为啥还要浪费时间去学？&lt;/li&gt;
+  &lt;li&gt;(针对某某新技术)这种东西一点都不好用，还没有我现在用的XXX好！&lt;/li&gt;
+  &lt;li&gt;我已经离开学校太久了，捡不起来了。&lt;/li&gt;
+  &lt;li&gt;……&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;事实上，他们只是丧失了自学的能力，更进一步说——他们丧失了自学的信心。&lt;/p&gt;
+
+&lt;p&gt;四、结语&lt;/p&gt;
+
+&lt;p&gt;最近，你在学什么新的东西吗？
+如果没有，你是从什么时候开始放弃学习的呢？
+如果已经放弃，你找到了什么好借口呢？&lt;/p&gt;
+</description>
+        <pubDate>Sat, 12 Dec 2015 23:40:00 +0800</pubDate>
+        <link>http://localhost:4040/dairy/2015/12/12/give-up-learning.html</link>
+        <guid isPermaLink="true">http://localhost:4040/dairy/2015/12/12/give-up-learning.html</guid>
+        
+        <category>Essay</category>
+        
+        
+        <category>Dairy</category>
         
       </item>
     
