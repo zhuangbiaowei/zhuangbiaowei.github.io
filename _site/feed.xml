@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4040/</link>
     <atom:link href="http://localhost:4040/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 14 Feb 2021 11:20:18 +0800</pubDate>
-    <lastBuildDate>Sun, 14 Feb 2021 11:20:18 +0800</lastBuildDate>
+    <pubDate>Tue, 16 Feb 2021 21:28:22 +0800</pubDate>
+    <lastBuildDate>Tue, 16 Feb 2021 21:28:22 +0800</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -41,11 +41,13 @@
 &lt;h1 id=&quot;最后希望2021能比2020好点&quot;&gt;最后，希望2021，能比2020好点&lt;/h1&gt;
 </description>
         <pubDate>Thu, 31 Dec 2020 00:00:00 +0800</pubDate>
-        <link>http://localhost:4040/lift/2020/12/31/Goodbye-2020.html</link>
-        <guid isPermaLink="true">http://localhost:4040/lift/2020/12/31/Goodbye-2020.html</guid>
+        <link>http://localhost:4040/dairy/2020/12/31/Goodbye-2020.html</link>
+        <guid isPermaLink="true">http://localhost:4040/dairy/2020/12/31/Goodbye-2020.html</guid>
+        
+        <category>Essay</category>
         
         
-        <category>Lift</category>
+        <category>Dairy</category>
         
       </item>
     
