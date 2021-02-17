@@ -6,9 +6,89 @@
 </description>
     <link>http://localhost:4040/</link>
     <atom:link href="http://localhost:4040/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 16 Feb 2021 21:28:22 +0800</pubDate>
-    <lastBuildDate>Tue, 16 Feb 2021 21:28:22 +0800</lastBuildDate>
+    <pubDate>Wed, 17 Feb 2021 23:19:17 +0800</pubDate>
+    <lastBuildDate>Wed, 17 Feb 2021 23:19:17 +0800</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>围绕Code 2.0的一些随感</title>
+        <description>&lt;h2 id=&quot;引言&quot;&gt;引言&lt;/h2&gt;
+
+&lt;p&gt;今天在YouTube上，看了一个讲座《&lt;a href=&quot;https://www.youtube.com/watch?v=6XREc8fEskI&quot;&gt;秦晖：学术自述&lt;/a&gt;》，其中一段话令我很受启发。现在这个全球化的时代，不懂中国，不足以讨论美国的问题；反之也一样。&lt;/p&gt;
+
+&lt;p&gt;这与我一直以来的一个思考，有一定的相关性。前段时间看过的一本书《&lt;a href=&quot;https://book.douban.com/subject/30121259/&quot;&gt;第五次开始&lt;/a&gt;》，是一本考古学的入门著作。其中提到了人类历史上的5次开始：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;开始使用工具：人类诞生&lt;/li&gt;
+  &lt;li&gt;开始使用文字：创造文化，创造文明&lt;/li&gt;
+  &lt;li&gt;开始农耕：定居，告别狩猎、采集的生活&lt;/li&gt;
+  &lt;li&gt;开始组成国家：城郭、帝国、战争…&lt;/li&gt;
+  &lt;li&gt;开始全球化：世界各地的考古遗迹，大量出现其他地区、国家，甚至大洲的物品&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;我们现在也许可以发现，第六次开始的迹象。越来越多的时候，重大事件并无“考古证据”，而是发生在虚拟空间（数字空间）。或者，我们甚至不能简单的说：一个真实世界与一个虚拟世界，而是一个真实与虚拟，交织在一起的复杂世界。&lt;/p&gt;
+
+&lt;p&gt;综合以上观点，我的判断是：在这个虚实混合的复杂世界，不懂虚拟世界，不足以讨论现实世界，而不懂现实世界，也不足以讨论虚拟世界。&lt;/p&gt;
+
+&lt;p&gt;或者说得再明确一些，不是懂了中国，就能讨论美国的问题，或者反过来。而是要在全球化的背景下，讨论世界上的各种问题！也不仅仅是需要更加了解虚拟世界，而是需要在复杂世界这个背景下，来讨论各种问题。&lt;/p&gt;
+
+&lt;h2 id=&quot;对复杂世界的法学理解&quot;&gt;对复杂世界的法学理解&lt;/h2&gt;
+
+&lt;p&gt;所谓虚实结合的复杂世界，我们可以通过类比，理解为：实数+虚数构成的复数空间，在这个空间里的点（一个人）在一个复平面上运动（人类行为）。比如在微信群里发红包，这个行为就是一个虚实结合的复杂行为，而不是简单的操作手机，或者实现中的财富转移，或者单纯的群内聊天。&lt;/p&gt;
+
+&lt;p&gt;在复杂世界中，行为是复杂的，人是复杂的，组织、关系、事件与结果，都是复杂的。要思考这样的复杂性，我们需要从多种角度，拓展自己的思考模式。其中，《&lt;a href=&quot;https://book.douban.com/subject/30276251/&quot;&gt;Code 2.0&lt;/a&gt;》代表的，就是一种法学思考模式。复杂世界的法律，不再仅仅是过去的条款，而是法律条款与Code的混合体。&lt;/p&gt;
+
+&lt;p&gt;在过去的慢节奏社会，用&lt;strong&gt;礼&lt;/strong&gt;代替&lt;strong&gt;法律&lt;/strong&gt;就能管好；现代社会节奏与变化加快，&lt;strong&gt;法律&lt;/strong&gt;就成为必须；在未来社会，节奏越来越快，法律的能力都会不足，所以必须靠&lt;strong&gt;Code&lt;/strong&gt;。从礼到法，再从法到Code。我的理解是几个进化：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;越来越客观、精确。比如：非礼勿视，是一种礼，但是如何执行，没说。在XXX情况下，不能看，这个是法律，就精确很多，但是依然需要解释与执行。到了Code，大家都能懂了。&lt;/li&gt;
+  &lt;li&gt;越来越细致，繁密。比如礼，可能就几十条；法律就是成千上万条；但是Code的规定，可以更加细致入微。&lt;/li&gt;
+  &lt;li&gt;越来越快捷、可执行。比如礼，总要事后“村里的老人来评理”；法律，就有了专门的执行机关；Code，直接就运行了。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;如果code-is-law将会如何&quot;&gt;如果Code is law，将会如何？&lt;/h2&gt;
+
+&lt;p&gt;我们不仅仅需要思考将法律应用于虚拟世界，用法律对虚拟世界进行规制。更加需要思考&lt;strong&gt;法律的现代形式&lt;/strong&gt;。或者说面对复杂世界，我们的规制手段，应该如何进化。在《Code 2.0》一书中，作者描述了四种规制类型：法律、社群规范、市场与架构。可以思考得更加深入一些：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;规制的意愿，从何而来？规则如何确定？——比如，一个门，定了一个规则，谁能进，谁不能进。这个规矩，是怎么定的？&lt;/li&gt;
+  &lt;li&gt;规制的执行，如何进行？——是找了一个门卫，还是搞了一个高科技的智能门禁系统？&lt;/li&gt;
+  &lt;li&gt;规则的变化，如何进行？——原来进门不用量体温，现在需要量体温。是给门卫发一个体温枪，还是在门禁系统上，加装一个温度探测仪？&lt;/li&gt;
+  &lt;li&gt;如何判断规则是否得到执行？——监督门卫的人在哪里？门禁系统的日志是否完整，可追溯？&lt;/li&gt;
+  &lt;li&gt;违反规则的人会受到哪些处罚？——通报批评？还是直接从下个月的工资里扣钱？&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;当我们开始思考上述这些问题时（仅仅举了一个较为简单的例子，用真正的法律来讲，效果也类似），我们会意识到，何谓&lt;strong&gt;法律的现代形式&lt;/strong&gt;？&lt;/p&gt;
+
+&lt;p&gt;一方面，在制定法律，尤其是法律的实施细则时，我们原来的法律条文的严谨程度，已经不够用了。所以，法律制定者，需要具备&lt;strong&gt;Code&lt;/strong&gt;思维。
+另一方面，这样严密程度的&lt;strong&gt;Law&amp;amp;Code&lt;/strong&gt;的形式，需要更加仔细的思考：法律施行之后的社会效应。&lt;/p&gt;
+
+&lt;p&gt;有一个简单的思考角度：过去的严刑峻法，主要是由于执法的成功率太低，需要通过杀一儆百，来起到震慑作用。那么，随着执法成功率的上升，是否应该进一步下降法律处罚的严厉程度呢？&lt;/p&gt;
+
+&lt;p&gt;另一个思考角度：过去的法律，主要是在惩罚犯罪行为的结果方面。那么，有了智能设备，全面联网，是否能够(需要/应该)通过Code，实现预防犯罪呢？这样做，又会衍生哪些问题呢？&lt;/p&gt;
+
+&lt;h2 id=&quot;美国的原典与中国的原典&quot;&gt;美国的原典与中国的原典&lt;/h2&gt;
+
+&lt;p&gt;在《Code 2.0》一书中，作者常常会回到美国的宪法，来进行思考。1787年的美国宪法，就是美国的原典。当他们的法律学者开始思考，往往会问：这个问题，在200多年前的宪法条款中，是否能够找到解释的依据。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;这真是自讨苦吃&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;在中国的古代，曾经有过这样的阶段，比如当年的董仲舒，就搞过《春秋决狱》，就是遇到具体案例，就到《春秋》这本书里，去找微言大义，用来作为判案的依据。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;这同样的自找苦吃&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;时代在变化，过去的经典，通常不足以解释后世的实际问题。只不过，中国现在早就走出了“原典”时代，而美国，还是一个遵循原典的年轻国家。这就很有意思了。&lt;/p&gt;
+</description>
+        <pubDate>Wed, 17 Feb 2021 00:00:00 +0800</pubDate>
+        <link>http://localhost:4040/complexworld/2021/02/17/about-code-2-0.html</link>
+        <guid isPermaLink="true">http://localhost:4040/complexworld/2021/02/17/about-code-2-0.html</guid>
+        
+        <category>Essay</category>
+        
+        
+        <category>ComplexWorld</category>
+        
+      </item>
     
       <item>
         <title>再见 2020</title>
@@ -525,44 +605,6 @@ Keep的有一个广告词我很喜欢——“自律给我自由！”&lt;/p&gt;
         <pubDate>Wed, 05 Oct 2016 12:42:00 +0800</pubDate>
         <link>http://localhost:4040/reading/2016/10/05/freedom-to-read.html</link>
         <guid isPermaLink="true">http://localhost:4040/reading/2016/10/05/freedom-to-read.html</guid>
-        
-        <category>Essay</category>
-        
-        
-        <category>Reading</category>
-        
-      </item>
-    
-      <item>
-        <title>读书的意义在哪里？</title>
-        <description>&lt;p&gt;知乎上的问题：“读了很多书，但是都忘掉了，那么读书的意义又在哪里？”&lt;/p&gt;
-
-&lt;p&gt;还是老套路，首先解题：这个问题可以转换为：通过读书，我们能够收获哪些，记忆以外的东西？&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;情感&lt;/strong&gt;，有些小说，我已经不记得书中的情节，不记得主人公的名字，但是当初的感动，直到现在我还记得。这不是普通的记忆，而是某种情感的经历。虽然没有经历过别人的人生，但是我们体会过别人的情感。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;能力&lt;/strong&gt;，这个可以再细分为很多种。比如，体会他人情感的能力；豁达大度，放松心情的能力；在纷繁复杂的事物中，看透本质的能力；在独自一人时，找到乐趣的能力；这些能力，需要通过阅读不同的书，然后反复体会，才能获得。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;心境&lt;/strong&gt;，某些书，我们读到某些段落，甚至某些句子。突然有豁然开朗的感觉。仿佛又对这个世界，对自己的人生，多了一层的理解。有了这样的理解，我们的心境便会有所不同。虽然事后，我们甚至会想不起，当初读到的，是哪一段话。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;气质&lt;/strong&gt;，一开始读书，你会迷茫。接着读，会小有所得。接着读，会得意洋洋。接着读，会回到迷茫、甚至惶恐。接着读，又会小有所得。渐渐的，你的气质就会有所不同，既不会盲目自大，又不会盲目自卑。书读得少的人，往往就没有这种怡然自得的气质。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;地图&lt;/strong&gt;，好读书不求甚解。但是，却要在读书的过程中，建立大局观，建立地图意识。具体的知识点可以不必记忆，但是各种知识范畴，与范畴之间的相互关系，则要越来越清楚才好。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;品味&lt;/strong&gt;，或者说鉴赏力。不仅仅是对于好书、烂书的鉴赏力，甚至通过读书，也能够对其他的事物，有较为靠谱的鉴赏力。&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Sat, 09 Jul 2016 11:23:00 +0800</pubDate>
-        <link>http://localhost:4040/reading/2016/07/09/about-reading-books.html</link>
-        <guid isPermaLink="true">http://localhost:4040/reading/2016/07/09/about-reading-books.html</guid>
         
         <category>Essay</category>
         
