@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4040/</link>
     <atom:link href="http://localhost:4040/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 17 Feb 2021 23:19:17 +0800</pubDate>
-    <lastBuildDate>Wed, 17 Feb 2021 23:19:17 +0800</lastBuildDate>
+    <pubDate>Sun, 21 Feb 2021 16:12:18 +0800</pubDate>
+    <lastBuildDate>Sun, 21 Feb 2021 16:12:18 +0800</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -233,6 +233,90 @@
         
         
         <category>Reading</category>
+        
+      </item>
+    
+      <item>
+        <title>漫谈996</title>
+        <description>&lt;h2 id=&quot;10年前的一桩小事&quot;&gt;10年前的一桩小事&lt;/h2&gt;
+&lt;p&gt;那时候我在一家小公司创业，算是公司的技术负责人。但是因为经营不善（其实就是创始人乱花钱），公司已经快倒闭了，开始拖欠员工的工资。于是，我在公司里发了一个邮件给各位同事，向他们普及了一下劳动法的相关条款，以及如果出现纠纷，该如何寻求劳动仲裁。&lt;/p&gt;
+
+&lt;p&gt;后来，公司的领导们发了一个通知出来，如下图所示：
+&lt;img src=&quot;/assets/img/996-1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;看起来只是我的福利薪酬未补齐，但是后面却又说&lt;strong&gt;给到大家&lt;/strong&gt;，反映了大面积拖欠的事实。。。&lt;/p&gt;
+
+&lt;p&gt;事实上，这个事情还有后续，因为公司倒闭，我还是去申请了劳动仲裁，仲裁判定我的诉求合理。但是公司创始人为了拖时间，又提起了一审、二审的上诉，最后我才拿到了合理的离职补偿金。因为我自己要去新公司上班，只能另外再花钱聘请了一位律师，帮我走完了相关的应诉流程。&lt;/p&gt;
+
+&lt;p&gt;这个事情其实很简单：劳资纠纷，法律会帮我解决。虽然老板们都是抠门的，但是法律是会帮助劳动者的。&lt;/p&gt;
+
+&lt;h2 id=&quot;996icu到底在反对啥&quot;&gt;996.icu，到底在反对啥？&lt;/h2&gt;
+&lt;p&gt;996.icu反对的不是加班，而是反对“&lt;strong&gt;制度性无偿加班&lt;/strong&gt;”。国家规定的是每周40小时的工作时间。有些公司将工作时间制度化的延长到9点上班，9点下班，每周6天。且没有给予相应的，合理的补偿！&lt;/p&gt;
+
+&lt;p&gt;这是违反《劳动法》，违反《劳动合同法》，违反国家相关规定的事情。那些用互联网竞争激烈说事的，那些说其他行业也在加班的，那些嘲讽程序员，说你们能力不行的，那些宣称这是“自然选择”的，那些说996是一场闹剧的。&lt;strong&gt;全！是！法！盲！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;996.icu运动，在反对的，是一个行业普遍存在的，肆无忌惮的违法行为。你们竟然有胆为之辩护？&lt;/p&gt;
+
+&lt;h2 id=&quot;是谁在为996辩护&quot;&gt;是谁在为996辩护？&lt;/h2&gt;
+&lt;p&gt;最近我正好在看《人性中的善良天使》这本书，非常有收获。其中主要在论述的，是人类不断减少的杀戮现象。但是也顺带的提及了其他一些趋势，比如：奴隶制已经消失，非法用工现象逐步减少，甚至40小时工作制成为主流。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/996-2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;但是，现在却还有很多为996辩护的人，比如那篇“阴阳怪气”反复强调“我反对996”的文章，其实也还是在为996辩护。看清楚了，&lt;strong&gt;他们都是老板。当然，都是些小老板。&lt;/strong&gt;大老板们自己是不会写这种文章的，毕竟闷声大发财就好。&lt;/p&gt;
+
+&lt;h2 id=&quot;是谁想要实行996&quot;&gt;是谁想要实行996？&lt;/h2&gt;
+&lt;p&gt;是不是凡是老板，都想实行996呢？其实也不是。只有无能而恐慌的老板们，才会把制度性996，作为最后的武器。因为，他无法调动员工的积极性，也无法正确的判断员工工作的努力程度，又担心6点就下班的员工，回家躺着也能赚钱。只能下一条命令：你们都来加班，我看到办公室里的人是满的，我才放心！&lt;/p&gt;
+
+&lt;p&gt;聪明的老板们，不会做这种傻事。我的前老板陈大年说了几句话：&lt;/p&gt;
+
+&lt;p&gt;“拼命创业是一个伪命题，其实拼命对创业没什么帮助。”
+“创始人为什么更加认同拼命创业，因为拼命创业能够带给你肉眼可见的成就感。”&lt;/p&gt;
+
+&lt;p&gt;还有一个分析，非常有价值，拼命创业的坏处有三条：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;员工被压榨掉了学习时间&lt;/li&gt;
+  &lt;li&gt;员工被压榨掉了思考时间&lt;/li&gt;
+  &lt;li&gt;当公司走得越来越差时，很可能会因为一些突发事件脱离正规&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;参考：《&lt;a href=&quot;https://mp.weixin.qq.com/s/HfHaA4dkq0Eov_PEMNENaA&quot;&gt;陈大年：论「创业要拼命」逻辑的对与错&lt;/a&gt;》&lt;/p&gt;
+
+&lt;h2 id=&quot;anti-996-license的对与错&quot;&gt;Anti 996 License的对与错&lt;/h2&gt;
+&lt;p&gt;随着996.icu项目的火爆，出现了一个新的License倡议《&lt;a href=&quot;https://github.com/kattgu7/Anti-996-License&quot;&gt;Anti 996 License&lt;/a&gt;》。简单的说：就是希望开源项目，在自己的licens里，添加反对996的条款。不允许实行996制度的公司，使用这一开源软件。&lt;/p&gt;
+
+&lt;p&gt;作为一个算是开源圈内人士，我更加认同vue的作者尤雨溪的观点：
+&lt;img src=&quot;/assets/img/996-3.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;解释一下“discriminatory clause”，这个说法来自于“OSD（开源软件定义 ）”：&lt;a href=&quot;https://opensource.org/osd&quot;&gt;The Open Source Definition&lt;/a&gt;，其中的第五、第六条。&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;5. No Discrimination Against Persons or Groups
+许可证不能歧视任何个人或团体
+6. No Discrimination Against Fields of Endeavor
+许可证不能限制任何人将程序用在某个特定的领域。
+例如，不能要求人们不可以把程序用在商业领域或者基因研究。
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;为何开源软件，不应该有限制（歧视）性条款？这是一个复杂的问题，这篇文章肯定说不清。只能引申多说一句，之前中美贸易战的时候，有些朋友会担心：美国会不会禁止中国使用XXXX开源软件？我当时表示不以为然，因为开源社区不会接受这样的违背其基本信条的License变更。但是现在想来，还是有很多国内的程序员，不太理解开源的本质。&lt;/p&gt;
+
+&lt;p&gt;一方面担心美国乱来，一方面自己也打算乱来。呵呵……&lt;/p&gt;
+
+&lt;h2 id=&quot;如何反对996&quot;&gt;如何反对996？&lt;/h2&gt;
+
+&lt;p&gt;不是首先考虑跳槽，而是先把自己之前的损失，要回来！&lt;/p&gt;
+
+&lt;p&gt;去寻求法律援助，去收集证据，去起诉。去做一些知法、守法、依法维护自身权利的事情。&lt;/p&gt;
+
+&lt;p&gt;参考资料：&lt;a href=&quot;https://github.com/Y1ran/996.Law&quot;&gt;996.LAW&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 05 Apr 2019 13:07:00 +0800</pubDate>
+        <link>http://localhost:4040/dairy/2019/04/05/about-996.html</link>
+        <guid isPermaLink="true">http://localhost:4040/dairy/2019/04/05/about-996.html</guid>
+        
+        <category>Essay</category>
+        
+        
+        <category>Dairy</category>
         
       </item>
     
@@ -558,53 +642,6 @@
         <pubDate>Sat, 31 Dec 2016 21:49:00 +0800</pubDate>
         <link>http://localhost:4040/reading/2016/12/31/about-reading.html</link>
         <guid isPermaLink="true">http://localhost:4040/reading/2016/12/31/about-reading.html</guid>
-        
-        <category>Essay</category>
-        
-        
-        <category>Reading</category>
-        
-      </item>
-    
-      <item>
-        <title>阅读的自由</title>
-        <description>&lt;p&gt;以前写过两篇文章《&lt;a href=&quot;/writing/2016/01/11/writing-freedom.html&quot;&gt;写字的自由——外篇&lt;/a&gt;》、《&lt;a href=&quot;/writing/2016/02/22/writing-freedom-2.html&quot;&gt;写字的自由——内篇&lt;/a&gt;》，这次国庆，因为两个诱因，我想再聊聊阅读的自由。&lt;/p&gt;
-
-&lt;p&gt;一个原因，是国庆我们去逛了苏州这边的“诚品书店”，去之前其实还是很期待的。但是逛了一大圈下来，却一本书都没有买。从书店出来，我和老婆聊天，我在那里感慨：“现在的出版商，大概也是在做最后的挣扎了，大家去逛书店，走来走去。他们必须要把一本书做得非常非常的吸引人，才能让读者，在2~3分钟的时间里，下决心拿一本带走。结果就是书做得越来越漂亮，但是仔细翻翻，却没啥可读的，更不值得买。”&lt;/p&gt;
-
-&lt;p&gt;另一个原因，是正好读到了caoz的公众号里的一篇文章《推荐算法、机器学习，会将我们带向何方？》其实是在谈一个现在已经很明显的趋势，公众号、自媒体、新闻报道，都在拼命的以吸引眼球为目标。比如“今日头条”这样的App，会让你在不自觉的点击它的新闻之后，总有一种上当受骗的感觉。&lt;/p&gt;
-
-&lt;p&gt;虽然，caoz的文章颇有些“为算法辩护”的意思， 不过我今天想要探讨的是另一个角度：&lt;strong&gt;在这个人人都在争夺眼球，拼命吸引注意力的时代，我们应该如何保卫自己的阅读自由？&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;警惕&quot;&gt;警惕&lt;/h2&gt;
-
-&lt;p&gt;今日头条那样的App，就赶紧卸载了吧。不要让他一直骗取你的信任，偷走你的时间。
-朋友圈里的那些文章，凡是带着“必看”、“深度好文”、“你必须知道”、“央视刚刚已经曝光”之类的标题的文章，忍一忍，不要去点。不当心点开了，也赶紧关掉吧。
-有一些刻意引发争论的文章，尽快丢到脑后，不要去争论，不要加入混战，不要凑那种热闹。&lt;/p&gt;
-
-&lt;p&gt;所谓警惕，&lt;strong&gt;就是对于可能偷走自己时间的内容，保持警觉，尽早丢开。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;计划&quot;&gt;计划&lt;/h2&gt;
-
-&lt;p&gt;如果你没有自己的阅读计划，自然容易被各种推荐算法、推荐评论、诱人腰封，给牵着鼻子走。
-反之，如果你自己计划要读的书，都还在排队等着你去读，那你哪里有时间，去读哪些莫名其妙的东西？
-Keep的有一个广告词我很喜欢——“自律给我自由！”&lt;/p&gt;
-
-&lt;p&gt;所谓计划，&lt;strong&gt;就是知道自己要什么。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;阅读小圈子&quot;&gt;阅读小圈子&lt;/h2&gt;
-
-&lt;p&gt;一直是自己闷头阅读，也是很吃力的。如果一个志趣相投的小圈子，不是互相推荐一些值得阅读的内容，还是很有益处的。
-当然，前提是，这群人的品位都不至于太差，否则这个圈子，就只能荒了。&lt;/p&gt;
-
-&lt;p&gt;所谓小圈子，&lt;strong&gt;就是：益者三友，友直，友谅，友多闻也。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;以上，就是一些捍卫自己的阅读自由的方法了，供大家参考。&lt;/p&gt;
-</description>
-        <pubDate>Wed, 05 Oct 2016 12:42:00 +0800</pubDate>
-        <link>http://localhost:4040/reading/2016/10/05/freedom-to-read.html</link>
-        <guid isPermaLink="true">http://localhost:4040/reading/2016/10/05/freedom-to-read.html</guid>
         
         <category>Essay</category>
         
