@@ -95,49 +95,17 @@
 
 // Sidebar Right
 
-#search-box
-  position: relative
-  height: $search-box-height
-  margin-bottom: 1px
-  &:before
-    @extend %icon
-    @extend %icon-search
-    position: absolute
-    top: 0
-    right: 15px
-    z-index: -1
-    font-size: 24px
-    line-height: $search-box-height
-    color: $search-box-placeholder
-
-
-#search-input
-  width: 100%
-  height: 100%
-  padding: 20px 45px 20px 15px
-  font-size: $search-box-font-size
-  line-height: $search-box-height - 20px * 2
-  color: $search-box-color
-  background: $search-box-bg
+#select-box
+  margin: $select-box-margin
+  height: $select-box-height
+#select-year
+  width: 60%
   border: none
-  border-radius: 0
-  outline: none
-  -webkit-font-smoothing: antialiased
-  -moz-osx-font-smoothing: grayscale
-  &::-webkit-input-placeholder
-    color: $search-box-placeholder
-  &::-moz-placeholder
-    color: $search-box-placeholder
-    opacity: 1
-  &:-moz-placeholder
-    color: $search-box-placeholder
-    opacity: 1
-  &:-ms-input-placeholder
-    color: $search-box-placeholder
-
+  background-color: rgba(255, 255, 255, 0.5)
+  height: $select-box-height - 2px
 
 #toc
-  height: calc(100% - #{$search-box-height + 1})
+  height: calc(100%)
   padding-top: 15px
   background: $toc-bg
   overflow-y: auto

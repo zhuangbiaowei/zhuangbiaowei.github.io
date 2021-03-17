@@ -70,6 +70,16 @@ $(function() {
     $(this).addClass('active').siblings().removeClass('active');
   });
 
+  $('#select-year').on('click', function(){
+    var year = $('#select-year')[0].value;
+    if (year == 'all'){
+      toc.fadeIn(350);
+    } else {
+      toc.hide();
+      $('.toc-link[data-year~=' + year + ']').fadeIn(350);
+    }
+  });
+
 
   // Menu
   menu.on('click', function() {

@@ -25,8 +25,18 @@
   </div>
 
   <div id="sidebar-right">
-    <div id="search-box">
-      <input id="search-input" type="text" placeholder="Search" />
+    <div id="select-box">
+      Years: <select id="select-year">
+        <option>all</option>
+        {% assign year = 0 %}
+        {% for post in site.posts %}
+        {% assign newyear = post.date | date: "%Y" %}
+        {% if newyear <> year %}
+          {% assign year = newyear %}
+          <option>{{ year }}</option>
+        {% endif %}
+        {% endfor %}
+      </select>
     </div>
 
     <nav id="toc">
@@ -38,7 +48,8 @@
         {% endfor %}
       {% elsif site.filter == 'tag' %}
         {% for post in site.posts %}
-          <a class="toc-link" data-tags="{{ post.tags | join: ' ' }}" href="{{ post.url }}">
+          {% assign year = post.date | date: "%Y" %}
+          <a class="toc-link" data-tags="{{ post.tags | join: ' ' }}" data-year="{{ year }}" href="{{ post.url }}">
             {{ post.title }}
           </a>
         {% endfor %}
