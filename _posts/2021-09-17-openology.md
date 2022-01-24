@@ -3,6 +3,7 @@ layout: post
 title:  "「开源学」：如何分门别类理解开源"
 date:   2021-09-17 14:20
 categories: OpenSource Openology
+comments: true
 ---
 
 来自：OSCAR开源大会，下午场的演讲。

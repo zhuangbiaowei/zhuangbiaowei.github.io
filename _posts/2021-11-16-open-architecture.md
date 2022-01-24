@@ -3,6 +3,7 @@ layout: post
 title:  "我们需要建立“开放式架构”的思维模式"
 date:   2021-11-16 09:00
 categories: OpenSource Openology Architecture
+comments: true
 ---
 
 今天在听CHAOSS China的一档播客节目《[Episode#01-聊一聊有机的开源运营](https://m.ximalaya.com/selfshare/sound/472724217?shrpid=17d260e382eac4f&cId=18&albumIds=52069269%2C37853515%2C4525323&shrdv=D48CA500-6D48-404B-AE90-FAF2F365CE9B&shareLevel=1&commandShareId=c389b4af14aa062a1911ed41f16e67d3&shrh5=iphone&shrid=17d260e382e18065&shareTime=1637021005870&uid=343307074&shrdh=1&subType=1015)》，突然连贯着想通了一个架构方面的问题。

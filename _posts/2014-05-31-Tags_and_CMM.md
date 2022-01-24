@@ -4,6 +4,7 @@ title:  "思考tags与主题词、敏捷与CMM、草根与精英"
 date:   2014-05-31 22:41
 categories: Thinking IT
 tags: SoftwareEngineer
+comments: true
 ---
 
 > 对立往往是能够通过沟通来化解的！

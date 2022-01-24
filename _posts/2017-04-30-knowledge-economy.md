@@ -4,6 +4,7 @@ title:  "聊聊“知识经济”"
 date:   2017-04-30 19:12
 categories: Dairy
 tags: Community Economy
+comments: true
 ---
 
 最近看了不少关于知识经济的相关讨论，有一些感想，忍不住想找人聊聊。

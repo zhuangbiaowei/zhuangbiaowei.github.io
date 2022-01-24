@@ -4,6 +4,7 @@ title:  "开源项目也要讲注意力经济"
 date:   2015-03-11 20:50
 categories: Thinking IT
 tags: OpenSource
+comments: true
 ---
 
 这是因OSTC大会的需要，接受CSDN采访的一个答复稿。文字与CSDN网站的略有不同。

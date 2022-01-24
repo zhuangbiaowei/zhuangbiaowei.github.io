@@ -3,6 +3,7 @@ layout: post
 title:  "《禅与摩托车维修艺术》读后感"
 date:   2021-05-23 08:53
 categories: Technology Philosophy
+comments: true
 ---
 
 前几天，因为朋友的推荐，我终于开始读《[禅与摩托车维修艺术](https://book.douban.com/subject/6811366/)》这本听说了很多年，却一直没有开始阅读的书。一旦开始，就一发不可收拾，大概花了4天的时间，我就读完了这本书。趁现在满脑子都还是书里的内容，还是写一下我的读后感吧。

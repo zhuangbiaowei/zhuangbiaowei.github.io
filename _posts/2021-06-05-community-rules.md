@@ -3,6 +3,7 @@ layout: post
 title:  "License之外，社区的规则与潜规则"
 date:   2021-06-05 14:20
 categories: OpenSource Community
+comments: true
 ---
 
 各位朋友，大家好！很高兴来到这次中国开发者生态峰会，与大家聊聊规则相关的话题。

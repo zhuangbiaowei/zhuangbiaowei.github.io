@@ -4,6 +4,7 @@ title:  "论架构师的自我修养"
 date:   2015-10-25 21:59
 categories: Thinking IT
 tags: Essay
+comments: true
 ---
 
 ##引子

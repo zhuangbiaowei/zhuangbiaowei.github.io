@@ -4,6 +4,7 @@ title:  "快播案，一个猝不及防的时代的缩影"
 date:   2016-01-09 12:07:00
 categories: ThinkingIT
 tags: Thinking IT
+comments: true
 ---
 
 # 引言

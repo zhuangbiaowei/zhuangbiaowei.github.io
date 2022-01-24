@@ -4,6 +4,7 @@ title:  "你是从什么时候开始放弃学习的？"
 date:   2015-12-12 23:40
 categories: Dairy
 tags: Essay
+comments: true
 ---
 
 一、背不出3x5的小女孩

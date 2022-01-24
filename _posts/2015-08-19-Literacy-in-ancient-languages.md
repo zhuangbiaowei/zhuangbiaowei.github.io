@@ -4,6 +4,7 @@ title:  "「民可使由之不可使知之」应该怎样断句？"
 date:   2015-08-19  23:37:38
 categories: Dairy
 tags: Confucianism
+comments: true
 ---
 
 这个问题非常有意思，如果不仅仅讨论断句的话，就更有意思了。

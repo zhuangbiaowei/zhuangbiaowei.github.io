@@ -4,6 +4,7 @@ title:  "我能为开源做些什么？"
 date:   2014-06-11 20:50
 categories: Thinking IT
 tags: OpenSource
+comments: true
 ---
 
 Crmky独立开发Cindy，已经很久了～～～至今只有他一个人。

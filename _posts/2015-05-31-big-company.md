@@ -4,6 +4,7 @@ title:  "大公司效率低最根本的原因是什么?"
 date:   2015-05-31 09:45:00
 categories: Thinking IT
 tags: Management
+comments: true
 ---
 
 * 首先：小公司为什么会变大？

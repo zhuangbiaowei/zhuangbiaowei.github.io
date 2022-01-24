@@ -4,6 +4,7 @@ title: "读书札记"
 data: 2020-12-20
 categories: Reading
 tags: Thinking
+comments: true
 ---
 
 最近我一直在看各种人类学相关的书籍，也因此有了不少零零碎碎的感想。正好下决心重启blog的写作，就想着还是得记录一下。

@@ -3,6 +3,7 @@ layout: post
 title:  "架构的力量"
 date:   2014-04-27 12:01
 categories: Thinking IT
+comments: true
 ---
 
 <a href="http://book.douban.com/subject/20445258/"><img src="https://img9.doubanio.com/view/subject/s/public/s24642460.jpg" style="width:30%;"></a>

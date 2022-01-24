@@ -4,6 +4,7 @@ title:  "一念轮回，以及稀缺心理"
 date:   2017-05-13 18:26
 categories: Dairy
 tags: psychology
+comments: true
 ---
 
 # 一念轮回

@@ -4,6 +4,7 @@ title:  "为啥我现在沉迷于GitChat"
 date:   2017-02-25 15:26
 categories: Dairy
 tags: Community
+comments: true
 ---
 
 我很喜欢与朋友聊天，一群相熟的朋友，天南海北的聊，我往往会逐渐成为饭桌上最活跃的那一个。因为聊着聊着，我又有了一个新的联想，想出某种新的观点，甚或是某种奇怪的笑点。

@@ -3,6 +3,7 @@ layout: post
 title:  "开源学：开源史学纲要"
 date:   2021-11-24 09:00
 categories: OpenSource Openology Historiography
+comments: true
 ---
 
 按照[上一篇文章](/opensource/openology/2021/10/05/what-is-openology.html)的描述，我试着从历史学的角度，来切入“开源学”的话题。所谓纲要，其实就是一个提纲，作为一个历史学的外行，来畅想一下：假设我是一个历史学家，我会如何来研究开源。

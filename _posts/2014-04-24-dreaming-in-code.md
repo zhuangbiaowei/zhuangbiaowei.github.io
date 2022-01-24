@@ -4,6 +4,7 @@ title:  "外国大牛也不过如此——《梦断代码》读后感"
 date:   2014-04-24 11:34
 categories: Thinking IT
 tags: OpenSource
+comments: true
 ---
 
 　　花了一周的时间，看完了《Dreaming in Code》（梦断代码），看得我心潮起伏。对里面那帮家伙的评价也起起落落。最终的结论是：外国大牛也不过如此。

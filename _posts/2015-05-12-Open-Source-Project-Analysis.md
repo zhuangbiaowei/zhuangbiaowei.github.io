@@ -4,6 +4,7 @@ title:  "从28万个开源项目中，我们能够学到一些什么？"
 date:   2015-05-12 22:47
 categories: Thinking IT
 tags: OpenSource
+comments: true
 ---
 
 # 引子：开源项目那么多，哪些是值得我们学习的？

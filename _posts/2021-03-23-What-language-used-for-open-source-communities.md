@@ -4,6 +4,7 @@ title:  "开源社区应该选择什么语言？"
 date:   2021-03-23 10:40
 categories: Thinking IT
 tags: OpenSource
+comments: true
 ---
 
 ## 前传

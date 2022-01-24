@@ -4,6 +4,7 @@ title: "写字的自由——内篇"
 data: 2016-02-22
 categories: Writing
 tags: Thinking
+comments: true
 ---
 
 

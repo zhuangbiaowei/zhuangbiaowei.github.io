@@ -4,6 +4,7 @@ title:  "不会太灰暗的未来"
 date:   2015-03-25 02:09
 categories: Thinking IT
 tags: Essay
+comments: true
 ---
 
 霍炬前阵子写了一篇「歪理邪说」：《[无论强人工智能能否出现，人类的未来注定灰暗](http://www.leiphone.com/news/201503/6NPsE8EuYl4Sn5wv.html)》我第一遍阅读的时候，发了一条微信：「好一篇歪理邪说，一时间竟无法反驳」。潜台词是：总觉得有哪里不对，还是很想反驳的。。。

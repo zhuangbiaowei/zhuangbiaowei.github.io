@@ -4,6 +4,7 @@ title:  "Bloglines+del.icio.us"
 date:   2014-06-06 22:44
 categories: Thinking IT
 tags: Product
+comments: true
 ---
 
 这篇Blog中的创意，优先供Robbin使用。

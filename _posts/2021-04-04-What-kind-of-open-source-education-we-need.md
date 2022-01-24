@@ -4,6 +4,7 @@ title:  "我们需要什么样的开源教育？"
 date:   2021-04-04 18:20
 categories: Thinking IT
 tags: OpenSource Education
+comments: true
 ---
 
 ## 0. 文章缘起

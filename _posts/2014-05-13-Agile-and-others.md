@@ -4,6 +4,7 @@ title:  "聊我所理解的敏捷(Agile)——外一篇"
 date:   2014-05-13 22:14
 categories: Thinking IT
 tags: SoftwareEngineer
+comments: true
 ---
 
 那些众所周知的敏捷宣言，敏捷方法，敏捷教科书，敏捷大神，我就不提了。只是聊聊，我所理解的敏捷的本质。

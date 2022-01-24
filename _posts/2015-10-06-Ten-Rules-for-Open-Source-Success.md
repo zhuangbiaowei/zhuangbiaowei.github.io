@@ -4,6 +4,7 @@ title:  "试译：开源项目成功的十条准则"
 date:   2015-10-06 22:00
 categories: Thinking IT
 tags: OpenSource
+comments: true
 ---
 
 原文：[Ten Rules for Open Source Success](http://hintjens.com/blog:95)

@@ -4,6 +4,7 @@ title:  "聊聊“新技术”"
 date:   2016-01-25 00:37
 categories: Technology
 tags: WebFrontEnd
+comments: true
 ---
 
 ## 缘起

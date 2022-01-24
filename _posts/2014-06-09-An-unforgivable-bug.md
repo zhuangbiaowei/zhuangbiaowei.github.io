@@ -4,6 +4,7 @@ title:  "一个不可原谅的bug"
 date:   2014-06-09 21:24
 categories: Thinking IT
 tags: Programming
+comments: true
 ---
 
 最近出了一件大案子，是咱们程序员同行干的。超市收银员上演“无间道”。正好我的一个朋友，是在这家超市工作，才透露了一些内情给我知道。

@@ -4,6 +4,7 @@ title:  "读书的意义在哪里？"
 date:   2016-07-09 11:23
 categories: Reading
 tags: Essay
+comments: true
 ---
 
 知乎上的问题：“读了很多书，但是都忘掉了，那么读书的意义又在哪里？”

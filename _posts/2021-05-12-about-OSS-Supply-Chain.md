@@ -3,6 +3,7 @@ layout: post
 title:  "我所理解的开源软件供应链安全"
 date:   2021-05-12 08:53
 categories: OpenSource
+comments: true
 ---
 
 ## 供应链与断供

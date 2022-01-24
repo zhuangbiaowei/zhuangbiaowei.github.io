@@ -4,6 +4,7 @@ title:  "2016--聊聊读书"
 date:  2016-12-31 21:49
 categories: Reading
 tags: Essay
+comments: true
 ---
 
 整个2016年，可以写的年终总结，实在是太多，想来想去，还是只写写读书，这一个方面吧。

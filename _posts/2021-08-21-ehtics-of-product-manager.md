@@ -3,6 +3,7 @@ layout: post
 title:  "产品经理的伦理学"
 date:   2021-08-21 14:20
 categories: Technology Philosophy
+comments: true
 ---
 
 ## 技术有病，谁有药？

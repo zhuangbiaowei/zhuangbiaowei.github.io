@@ -3,6 +3,7 @@ layout: post
 title:  "小型企业知识管理的好办法——Google四件宝"
 date:   2014-06-06 22:36
 categories: Thinking IT
+comments: true
 ---
 
 8月24日那天我没有写BLOG，出去吃饭去了。gigix他们CSDN的人马到上海来协办IBM的开发者大会，随便把Robbin、Dlee和我都叫去了。席间聊到了很多有趣的话题，只能以后慢慢回忆，慢慢整理后写出来了。

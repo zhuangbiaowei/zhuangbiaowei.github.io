@@ -4,6 +4,7 @@ title:  "你的团队是池塘？还是舰队？"
 date:   2015-08-13 09:45:00
 categories: Thinking IT
 tags: Management
+comments: true
 ---
 
 最近有两个朋友，围绕着团队与鲶鱼的问题，展开了激烈但却友好的争论。相关的文章如下：

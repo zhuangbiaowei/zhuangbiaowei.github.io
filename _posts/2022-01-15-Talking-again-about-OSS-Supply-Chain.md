@@ -3,6 +3,7 @@ layout: post
 title:  "再谈“开源软件供应链安全”"
 date:   2022-01-15 08:53
 categories: OpenSource
+comments: true
 ---
 
 ## 缘起

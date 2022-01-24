@@ -4,6 +4,7 @@ title:  "软件开发文档的持续集成"
 date:   2014-06-09 17:38
 categories: Thinking IT
 tags: SoftwareEngineer
+comments: true
 ---
 
 大多数程序员，都极度痛恨写文档。Coding是愉快的，而Write是痛苦的。有一部分原因，其实是要归咎于程序员自身，以我的经验，很多程序员往往会“艰于表达”，尤其是用“文字、图表、PPT、Word”之类的Office Document来表达。当然，还有一部分原因，是由于很多项目开发实践中，文档的前后矛盾、形式主义、反复修改、歧义重重，常常让程序员们抓狂。

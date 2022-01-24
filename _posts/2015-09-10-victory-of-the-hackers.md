@@ -4,6 +4,7 @@ title:  "黑客的胜利——读《增长黑客》有感"
 date:   2015-09-10 23:00:50
 categories: Thinking IT
 tags: Hacker OpenSource
+comments: true
 ---
 
 ![增长黑客](/assets/img/hacker-1.png)

@@ -4,6 +4,7 @@ title:  "OpenSSL是否值得同情？"
 date:   2015-02-08 10:38
 categories: Thinking IT
 tags: OpenSource
+comments: true
 ---
 
 《界面》的一篇《[隐形战友](http://www.jiemian.com/article/231843.html)》，引发了霍炬的批评《[那些被歪曲的开源软件和OpenSSL的真实历史](http://money.163.com/15/0206/10/AHOVTEVK00253B0H.html)》

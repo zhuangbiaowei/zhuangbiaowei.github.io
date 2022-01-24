@@ -3,6 +3,7 @@ layout: post
 title:  "基于DevOps的开源治理"
 date:   2021-09-04 14:20
 categories: OpenSource DevOps
+comments: true
 ---
 
 本文内容选自2021中国DevOps社区峰会 · 大连站，我的演讲内容整理稿。

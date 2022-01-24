@@ -4,6 +4,7 @@ title:  "阅读的自由"
 date:  2016-10-05 12:42
 categories: Reading
 tags: Essay
+comments: true
 ---
 
 以前写过两篇文章《[写字的自由——外篇](/writing/2016/01/11/writing-freedom.html)》、《[写字的自由——内篇](/writing/2016/02/22/writing-freedom-2.html)》，这次国庆，因为两个诱因，我想再聊聊阅读的自由。

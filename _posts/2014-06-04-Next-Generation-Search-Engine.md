@@ -3,6 +3,7 @@ layout: post
 title:  "下一代搜索技术的四块积木"
 date:   2014-06-04 22:33
 categories: Thinking IT
+comments: true
 ---
 
 按照我的设想，下一代Internet搜索技术，应该由以下四个部分组成：

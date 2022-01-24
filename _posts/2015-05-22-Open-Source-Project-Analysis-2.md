@@ -4,6 +4,7 @@ title:  "28万个开源项目之番外篇"
 date:   2015-05-28 22:00
 categories: Thinking IT
 tags: OpenSource
+comments: true
 ---
 # 一、工具
 

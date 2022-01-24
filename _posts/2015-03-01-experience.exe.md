@@ -4,6 +4,7 @@ title:  "experience.exe"
 date:   2015-03-01 22:38
 categories: Thinking IT
 tags: Cloud
+comments: true
 ---
 
 一个只有程序员才能立刻理解的笑话：「中国的法律是txt格式的，西方的法律是exe格式的。」当然，这个笑话相当片面（废话），但是却可以成一个很好的引子，引出今天的话题：「什么才算是可以被执行的经验？」

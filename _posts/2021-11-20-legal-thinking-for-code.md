@@ -3,6 +3,7 @@ layout: post
 title:  "从法律思维的角度看代码——《Code 2.0》读后感"
 date:   2021-11-20 10:02
 categories: OpenSource Openology Legal
+comments: true
 ---
 
 《[Code 2.0](https://book.douban.com/subject/30276251/)》是一本常读常新的书，不时翻阅，也常常会有新的收获。

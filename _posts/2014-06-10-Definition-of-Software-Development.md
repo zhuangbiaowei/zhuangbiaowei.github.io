@@ -4,6 +4,7 @@ title:  "定论——软件开发的方法论探讨"
 date:   2014-06-10 19:46
 categories: Thinking IT
 tags: SoftwareEngineer
+comments: true
 ---
 
 一、消除隐喻

@@ -3,6 +3,7 @@ layout: post
 title:  "SNS、IM、BBS与JavaEye"
 date:   2014-04-23 09:28
 categories: Thinking IT
+comments: true
 ---
 
 今天在跟Robbin聊天，聊的话题也比较散，只能记一个大概了。

@@ -4,6 +4,7 @@ title:  "从前慢——我希望有一个「慢社区」"
 date:   2015-07-05 20:45
 categories: Dairy
 tags: Community
+comments: true
 ---
 
 我不了解木心，他的文章我也从未看过，只有一首诗，倒是给我留下很深的印象：

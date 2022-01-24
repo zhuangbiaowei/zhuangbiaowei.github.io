@@ -4,6 +4,7 @@ title:  "如何评价一个新技术——以Docker为例"
 date:   2015-05-03 22:20
 categories: Thinking IT
 tags: OpenSource
+comments: true
 ---
 
 上次与霍炬聊天，霍炬提到他在跟陈皓抬杠，陈皓认为Docker与Java是一个级别的发明，第二年就吸引了所有热门公司的加入。而霍炬认为这太夸张了，毕竟就是个配置管理器嘛。

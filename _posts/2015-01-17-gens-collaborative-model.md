@@ -4,6 +4,7 @@ title:  "三代开源社区的协作模式"
 date:   2016-01-17 00:02
 categories: Thinking IT
 tags: OpenSource
+comments: true
 ---
 
 ### 一、研发工具与研发模式

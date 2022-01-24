@@ -4,6 +4,7 @@ title:  "Java社群该向Ruby on Rails学习些什么？"
 date:   2014-04-26 08:58
 categories: Thinking IT
 tags: OpenSource
+comments: true
 ---
 
 

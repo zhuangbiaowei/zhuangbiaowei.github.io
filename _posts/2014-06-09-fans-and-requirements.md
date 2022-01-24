@@ -4,6 +4,7 @@ title:  "我是凉粉|《机器人历险记》|Web 2.0"
 date:   2014-06-09 21:30
 categories: Thinking IT
 tags: Product
+comments: true
 ---
 
 BJUG，北京Java用户组，全球Java User Group Top 50之一。我虽然人在上海，也有幸加入了BJUG的邮件列表，常常会参与一些有价值的技术讨论。但是，在2005-8-25 下午3:34我收到了这样的一封邮件：

@@ -4,6 +4,7 @@ title:  "我是一个程序员，我想和简书聊聊"
 date:   2017-12-16 09:50
 categories: Dairy
 tags: Essay
+comments: true
 ---
 
 ## 一、地图炮，一点都不新鲜

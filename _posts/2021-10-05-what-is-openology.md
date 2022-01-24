@@ -3,6 +3,7 @@ layout: post
 title:  "什么是开源学？"
 date:   2021-10-05 20:49
 categories: OpenSource Openology
+comments: true
 ---
 
 在上一篇文章《[「开源学」：如何分门别类理解开源](/opensource/openology/2021/09/17/openology.html)》中，我第一次尝试提出“开源学”这个名词，但是，本质上这只是一个“书单”。里面罗列了很多我看过的，想看的，甚至只是听说过的书。当然，还喊了一些口号，比如：“以万法观开源，由开源融万法”。

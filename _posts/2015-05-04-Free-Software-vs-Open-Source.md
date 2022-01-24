@@ -4,6 +4,7 @@ title:  "Free Software vs. Open Source"
 date:   2015-05-04 20:51
 categories: Thinking IT
 tags: OpenSource FreeSoftware
+comments: true
 ---
 
 ## 首先推荐一部电视剧

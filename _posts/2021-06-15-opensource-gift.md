@@ -3,6 +3,7 @@ layout: post
 title:  "开源：献给世界的礼物"
 date:   2021-06-15 14:20
 categories: OpenSource Anthropology
+comments: true
 ---
 
 # 01 如何理解开源？

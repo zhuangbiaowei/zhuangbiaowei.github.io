@@ -3,6 +3,7 @@ layout: post
 title:  "为什么大家都喜欢在开源社区“吵架”？"
 date:   2021-07-08 14:20
 categories: OpenSource Community
+comments: true
 ---
 
 ```
