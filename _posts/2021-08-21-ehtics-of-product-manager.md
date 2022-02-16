@@ -84,4 +84,4 @@ comments: true
 
 **还是需要更多的基础研究**
 
-一些不成熟的思考，想想还是写出来，共大家参考吧。正好，在写作这篇文章的时候，微信给我推送了一个TEDx演讲，《[老年人如何在数字时代里享有尊严｜TEDx深圳](https://mp.weixin.qq.com/s/DQyxioTE5UV1TgtDaV2J9Q)》，也推荐给大家阅读。
+一些不成熟的思考，想想还是写出来，供大家参考吧。正好，在写作这篇文章的时候，微信给我推送了一个TEDx演讲，《[老年人如何在数字时代里享有尊严｜TEDx深圳](https://mp.weixin.qq.com/s/DQyxioTE5UV1TgtDaV2J9Q)》，也推荐给大家阅读。
