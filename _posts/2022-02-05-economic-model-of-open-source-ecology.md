@@ -2,6 +2,8 @@
 layout: post
 title: 试论开源生态的经济模型
 date: 2022-02-05 14:53 +0800
+categories: OpenSource
+comments: true
 ---
 
 ## 缘起
