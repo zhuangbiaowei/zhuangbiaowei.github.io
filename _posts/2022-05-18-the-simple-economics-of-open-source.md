@@ -271,7 +271,7 @@ ii) Full initiative: The open source programmer is her own boss and takes full r
 
 iii) Greater fluidity: It may be argued that the labor market is more fluid in an open source environment. Programmers are likely to have less idiosyncratic, or firmspecific, human capital that limits shifting one’s efforts to a new program or work environment. (Since many elements of the source code are shared across open source projects, more of the knowledge they have accumulated can be transferred to the new environment).
 
-i) 更好的性能测量。外人只能不准确地观察典型的商业开发的程序的个别元素的功能和/或质量，因为他们无法观察专有的源代码。作为对比，在一个开放源码项目中，外部人员不仅能够看到每个人的贡献是什么，以及该组件是否 "工作"，而且还能看到任务是否困难，是否以巧妙的方式解决了问题，代码是否能在未来对其他编程任务有用，等等。
+i) 更好的表现评估。外人只能不准确地观察典型的商业开发的程序的个别元素的功能和/或质量，因为他们无法观察专有的源代码。作为对比，在一个开放源码项目中，外部人员不仅能够看到每个人的贡献是什么，以及该组件是否 "工作"，而且还能看到任务是否困难，是否以巧妙的方式解决了问题，代码是否能在未来对其他编程任务有用，等等。
 
 ii) 充分的主动性。开源程序员是她自己的老板，对一个子项目的成功承担全部责任。然而，在一个等级森严的商业公司里，程序员的表现取决于她的上司的干预和建议等。经济理论预测，在前一种情况下，程序员的表现会得到更精确的衡量。
 
@@ -349,13 +349,13 @@ Trust in the leadership is also key to the prevention of forking. While there ar
 
 A good leadership should also clearly communicate its goals and evaluation procedures. Indeed, the open source organizations go to considerable efforts to make the nature of their decision making process transparent: the process by which the operating committee reviews new software proposals is frequently posted and all postings archived. For instance, on the Apache web site, it is explained how proposed changes to the program are reviewed by the program’s governing body, whose membership is largely based on contributions to the project. (Any significant change requires at least three “yes” votes—and no vetoes—by these key decision-makers.)
 
-一个好的领导层也应该清楚地传达其目标和评估程序。事实上，开放源码组织在使其决策过程的性质透明化方面做出了相当大的努力：运营委员会审查新软件提案的过程经常被公布，并且所有的帖子都被存档。例如，在 Apache 网站上，它解释了对该计划的修改建议是如何由该计划的管理机构审查的，该机构的成员主要是基于对项目的贡献。（任何重大的改变都需要这些关键的决策者至少投出三张 "同意 "票--没有否决票）。
+一个好的领导层也应该清楚地传达其目标和评估程序。事实上，开放源码组织在使其决策过程的性质透明化方面做出了相当大的努力：运营委员会审查新软件提案的过程经常被公布，并且所有的帖子都被存档。例如，在 Apache 网站上，它解释了对该计划的修改建议是如何由该计划的管理机构审查的，该机构的成员主要是基于对项目的贡献。（任何重大的改变都需要这些关键的决策者至少投出三张 "同意 "票，且没有否决票）。
 
 # 5. Commercial Software Companies' Reactions to the Open Source Movement / 商业软件公司对开放源代码运动的反应  
 
 This section examines the interface between open and closed source software development. Challenged by the successes of the open source movement, the commercial software corporations may employ one of the following two strategies. The first is to emulate some incentive features of open source processes in a distinctively closed source environment. Another is to try to mix open and closed source processes to get the best of both worlds.
 
-本节探讨了开放源码和封闭源码软件开发之间的接口。在开放源码运动成功的挑战下，商业软件公司可能采用以下两种策略之一。第一种是在一个独特的封闭源码环境中模仿开放源码过程的一些激励性特征。另一种是尝试混合开放和封闭源代码的过程，以获得两个世界的最佳效果。
+本节探讨了开放源码和封闭源码软件开发之间的界面。在开放源码运动成功的挑战下，商业软件公司可能采用以下两种策略之一。第一种是在一个独特的封闭源码环境中模仿开放源码过程的一些激励性特征。另一种是尝试混合开放和封闭源代码的过程，以获得两个世界的最佳效果。
 
 ## 5.1 Why don't corporations duplicate the open source incentives? / 为什么企业不复制开放源代码的激励措施？ 
 
