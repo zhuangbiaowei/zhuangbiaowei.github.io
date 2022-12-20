@@ -2,7 +2,7 @@
 layout: post
 title: "【翻译】开源的简单经济学"
 date: 2022-05-18 15:18 +0800
-categories: OpenSource Economics
+tags: OpenSource Economics
 comments: true
 ---
 ```

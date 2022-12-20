@@ -2,7 +2,7 @@
 layout: post
 title: "开源与标准"
 date: 2022-06-10 20:05 +0800
-categories: OpenSource Standard
+tags: OpenSource Standard
 comments: true
 ---
 

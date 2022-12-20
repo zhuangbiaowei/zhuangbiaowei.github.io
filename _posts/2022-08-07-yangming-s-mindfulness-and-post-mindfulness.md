@@ -2,7 +2,7 @@
 layout: post
 title: 阳明心学与“后心学”
 date: 2022-08-07 13:49 +0800
-categories: Confucianism Ethics
+tags: Confucianism Ethics
 comments: true
 ---
 

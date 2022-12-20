@@ -2,7 +2,7 @@
 layout: post
 title: "开源生态学初探——从生命游戏开始"
 date: 2022-05-21 19:55 +0800
-categories: OpenSource Ecology
+tags: OpenSource Ecology
 comments: true
 ---
 
