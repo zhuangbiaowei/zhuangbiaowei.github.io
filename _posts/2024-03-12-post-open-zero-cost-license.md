@@ -6,7 +6,7 @@ tags: OpenSource License
 comments: true
 ---
 
-**特别感谢：赵云虎律师帮我审阅了翻译的初稿，并提出了很多专业的修改意见，详情请参见commit diff**
+**特别感谢：赵云虎律师帮我审阅了翻译的初稿，并提出了很多专业的修改意见，详情请参见[commit diff](https://github.com/zhuangbiaowei/zhuangbiaowei.github.io/commit/92fc102bc96e31774886f5e76943b2df5448ef4a)**
 
 ---
 
