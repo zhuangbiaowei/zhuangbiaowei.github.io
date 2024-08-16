@@ -314,7 +314,7 @@ OSD（The Open Source Definition, 开源定义）的来历值得介绍一下。�
 
 另一方面，声援RMS的人们，也创建了一个repo，发出了《一封支持理查德·斯托曼(Richard Stallman)的公开信[^17]》，最终，支持RMS的签名者，达到了6876人。
 
-<img src="https://mmbiz.qpic.cn/mmbiz_png/o9U5iaeuAciaA4amWe4Imu4R7YuhnvWibJCGweicfT9SzOfBklZKgiagURaXx6MvlOq4HjAKHMEtiash16FJZr2KOVJQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1" alt="图片" style="zoom:50%;" />
+<img src="/assets/img/rms.png" alt="图片" style="zoom:50%;" />
 
 最终，2021年4月12日，自由软件基金会发表声明，坚持邀请 RMS 回归，并表示：“we missed his wisdom[^18]”。
 
