@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 用Ruby从头做一个AI Agent应用 -- SmartResearch （一个真实、有用的研究助手）
-date: 2025-10-31 16:00 +0800
+date: 2025-10-31 09:00 +0800
 tags: OpenSource Ruby AI Agent Research
 comments: true
 ---
